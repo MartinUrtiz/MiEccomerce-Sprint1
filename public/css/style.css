@@ -548,7 +548,7 @@ main{
 /* 8. ESTILOS PÁGINA LOGIN / REGISTER             */
 
 .auth-container {
-  background-color: #00b19d; 
+  background-color: #00bcd4; 
   /* CAMBIO: Usamos min-height para que no se rompa cuando se abre el teclado del celular */
   min-height: calc(100vh - 70px); 
   display: flex;
